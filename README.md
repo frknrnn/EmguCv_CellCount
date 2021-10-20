@@ -1,0 +1,2 @@
+# EmguCv_CellCount
+OpenCv kütüphanesinin wrapper'ı olan EmguCv kütüphanesi ile görüntü işleme kullanarak hücre sayım algoritmasının oluşturuldu. Oluşturulan hücre sayım algoritması için basit bir arayüz oluşturuldu. Arayüz için windows form application kullanıldı. C# dili ile oluşturulan bu uygulamada kullanıcı hela hücre görüntülerini uygulamaya aktardıktan sonra count butonu ile sayım sonucunu gözlemleyebilir.
